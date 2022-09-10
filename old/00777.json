@@ -1,0 +1,213 @@
+{
+   "id": 34947458,
+   "num_sales": 1,
+   "background_color": null,
+   "image_url": "https://lh3.googleusercontent.com/X-4YNh12fCfXn3hh7IXSB35_Vg8lMVomxx_o-EBSzZKkAoD3zrfGS3muOpod8OOcH1pzY1XCvpsdsEGvk-otjxXOuY1eWlYCU49qgzI",
+   "image_preview_url": "https://lh3.googleusercontent.com/X-4YNh12fCfXn3hh7IXSB35_Vg8lMVomxx_o-EBSzZKkAoD3zrfGS3muOpod8OOcH1pzY1XCvpsdsEGvk-otjxXOuY1eWlYCU49qgzI=s250",
+   "image_thumbnail_url": "https://lh3.googleusercontent.com/X-4YNh12fCfXn3hh7IXSB35_Vg8lMVomxx_o-EBSzZKkAoD3zrfGS3muOpod8OOcH1pzY1XCvpsdsEGvk-otjxXOuY1eWlYCU49qgzI=s128",
+   "image_original_url": "ipfs://QmV5EkrVt74vNoFwj34iTdNBmQghY9NAMEjpANqHUzwM2F",
+   "animation_url": null,
+   "animation_original_url": null,
+   "name": "#777",
+   "description": "Lazy Lions",
+   "external_link": "https://www.lazylionsnft.com/",
+   "asset_contract": {
+      "address": "0x8943c7bac1914c9a7aba750bf2b6b09fd21037e0",
+      "asset_contract_type": "non-fungible",
+      "created_date": "2021-08-06T03:39:40.774689",
+      "name": "Lazy Lions",
+      "nft_version": "3.0",
+      "opensea_version": null,
+      "owner": 56284209,
+      "schema_name": "ERC721",
+      "symbol": "LION",
+      "total_supply": "0",
+      "description": "Lazy Lions is the NFT community for \ud83d\udc51s.\n\nWhy do they give us so many words for this description? We\u2019re lazy.\n\nLinks: [Website](https://lazylionsnft.com) - [Lazy Cubs](https://opensea.io/collection/lazy-cubs-) - [Lazy Lions Bungalows](https://opensea.io/collection/lazy-lions-bungalows) - [Lazy Drinks](https://opensea.io/collection/lazy-drinks-)",
+      "external_link": "http://lazylionsnft.com",
+      "image_url": "https://lh3.googleusercontent.com/kFZpw-bkoyH03qFbfqkwkkhHVxT7qclK_tYFmhU1K2HegU3v2wSMmhL6TIgw7Stx1KIoKs1sdJQ4My71ktXV7GygPBjaQZCACERt=s120",
+      "default_to_fiat": false,
+      "dev_buyer_fee_basis_points": 0,
+      "dev_seller_fee_basis_points": 700,
+      "only_proxied_transfers": false,
+      "opensea_buyer_fee_basis_points": 0,
+      "opensea_seller_fee_basis_points": 250,
+      "buyer_fee_basis_points": 0,
+      "seller_fee_basis_points": 950,
+      "payout_address": "0x4f195b55286652978bb97f10a6102c976b50e742"
+   },
+   "permalink": "https://opensea.io/assets/ethereum/0x8943c7bac1914c9a7aba750bf2b6b09fd21037e0/777",
+   "collection": {
+      "banner_image_url": "https://lh3.googleusercontent.com/bOyDfDTQ9aMb2LGmuwV8h3fZuOLi9lQvy5NFG308NEwfjhrZAARYXYGucZ7qGIFCFYu6fSWCZb17kXblDQohw8nPd3QatR9_hBO39A=s2500",
+      "chat_url": null,
+      "created_date": "2021-08-06T06:37:58.189522",
+      "default_to_fiat": false,
+      "description": "Lazy Lions is the NFT community for \ud83d\udc51s.\n\nWhy do they give us so many words for this description? We\u2019re lazy.\n\nLinks: [Website](https://lazylionsnft.com) - [Lazy Cubs](https://opensea.io/collection/lazy-cubs-) - [Lazy Lions Bungalows](https://opensea.io/collection/lazy-lions-bungalows) - [Lazy Drinks](https://opensea.io/collection/lazy-drinks-)",
+      "dev_buyer_fee_basis_points": "0",
+      "dev_seller_fee_basis_points": "700",
+      "discord_url": "https://discord.gg/LazyLionsNFT",
+      "display_data": {
+         "card_display_style": "contain"
+      },
+      "external_url": "http://lazylionsnft.com",
+      "featured": false,
+      "featured_image_url": "https://lh3.googleusercontent.com/kFZpw-bkoyH03qFbfqkwkkhHVxT7qclK_tYFmhU1K2HegU3v2wSMmhL6TIgw7Stx1KIoKs1sdJQ4My71ktXV7GygPBjaQZCACERt=s300",
+      "hidden": false,
+      "safelist_request_status": "verified",
+      "image_url": "https://lh3.googleusercontent.com/kFZpw-bkoyH03qFbfqkwkkhHVxT7qclK_tYFmhU1K2HegU3v2wSMmhL6TIgw7Stx1KIoKs1sdJQ4My71ktXV7GygPBjaQZCACERt=s120",
+      "is_subject_to_whitelist": false,
+      "large_image_url": "https://lh3.googleusercontent.com/kFZpw-bkoyH03qFbfqkwkkhHVxT7qclK_tYFmhU1K2HegU3v2wSMmhL6TIgw7Stx1KIoKs1sdJQ4My71ktXV7GygPBjaQZCACERt=s300",
+      "medium_username": "lazylionsnft",
+      "name": "Lazy Lions",
+      "only_proxied_transfers": false,
+      "opensea_buyer_fee_basis_points": "0",
+      "opensea_seller_fee_basis_points": "250",
+      "payout_address": "0x4f195b55286652978bb97f10a6102c976b50e742",
+      "require_email": false,
+      "short_description": null,
+      "slug": "lazy-lions",
+      "telegram_url": null,
+      "twitter_username": "LazyLionsNFT",
+      "instagram_username": "lazylionsnft",
+      "wiki_url": null,
+      "is_nsfw": false
+   },
+   "decimals": 0,
+   "token_metadata": "https://metadata.lazylionsnft.com/api/lazylions/777",
+   "is_nsfw": false,
+   "owner": {
+      "user": {
+         "username": "Woombo"
+      },
+      "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/33.png",
+      "address": "0x0d5636bc420c364f50bec2518f06e204898c64db",
+      "config": ""
+   },
+   "sell_orders": null,
+   "seaport_sell_orders": null,
+   "creator": {
+      "user": {
+         "username": "Lazy-Lions"
+      },
+      "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/18.png",
+      "address": "0x82888a271fae31794493b9f95d5f0f7175b810e3",
+      "config": ""
+   },
+   "traits": [
+      {
+         "trait_type": "Body",
+         "value": "Red",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 499,
+         "order": null
+      },
+      {
+         "trait_type": "Eyes",
+         "value": "Water Goggles",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 475,
+         "order": null
+      },
+      {
+         "trait_type": "Bodygear",
+         "value": "Football Jersey - Blue",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 521,
+         "order": null
+      },
+      {
+         "trait_type": "Background",
+         "value": "Adamant",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 2006,
+         "order": null
+      },
+      {
+         "trait_type": "Mouth",
+         "value": "Smirk + J",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 292,
+         "order": null
+      },
+      {
+         "trait_type": "Earring",
+         "value": "Nothing",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 7568,
+         "order": null
+      },
+      {
+         "trait_type": "Headgear",
+         "value": "Nothing",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 4133,
+         "order": null
+      },
+      {
+         "trait_type": "Mane",
+         "value": "Blue",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 209,
+         "order": null
+      }
+   ],
+   "last_sale": {
+      "asset": {
+         "decimals": 0,
+         "token_id": "777"
+      },
+      "asset_bundle": null,
+      "event_type": "successful",
+      "event_timestamp": "2021-09-18T13:43:51",
+      "auction_type": null,
+      "total_price": "1777000000000000000",
+      "payment_token": {
+         "symbol": "ETH",
+         "address": "0x0000000000000000000000000000000000000000",
+         "image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+         "name": "Ether",
+         "decimals": 18,
+         "eth_price": "1.000000000000000",
+         "usd_price": "1097.799999999999955000"
+      },
+      "transaction": {
+         "block_hash": "0x7e9eb3c10a5d154e18186e3ce2b3bdcc453bae6687fab74b7dae02207e8d8b47",
+         "block_number": "13249984",
+         "from_account": {
+            "user": {
+               "username": "Woombo"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/33.png",
+            "address": "0x0d5636bc420c364f50bec2518f06e204898c64db",
+            "config": ""
+         },
+         "id": 166563456,
+         "timestamp": "2021-09-18T13:43:51",
+         "to_account": {
+            "user": {
+               "username": "OpenSea-Orders"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+            "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "config": "verified"
+         },
+         "transaction_hash": "0x55f0dba591d54e03ea97bdef1d9d7997318e8ef6fbf3b8350f16c4c21f666ee5",
+         "transaction_index": "250"
+      },
+      "created_date": "2021-09-18T13:44:29.992355",
+      "quantity": "1"
+   },
+   "top_bid": null,
+   "listing_date": null,
+   "is_presale": false,
+   "transfer_fee_payment_token": null,
+   "transfer_fee": null,
+   "token_id": "777"
+}
